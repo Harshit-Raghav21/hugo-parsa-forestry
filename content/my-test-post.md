@@ -2,7 +2,6 @@
 categories = ["plans"]
 date = 2020-09-29T18:30:00Z
 description = "Plan comparison image"
-draft = true
 image = "/images/screen-shot-2020-09-18-at-6-48-02-pm.png"
 tags = ["comparison"]
 title = "My test post"
